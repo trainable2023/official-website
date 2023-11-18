@@ -1,3 +1,7 @@
-.elementor-heading-title{
+.elementor-heading-title {
     color: rgb(1, 62, 186);
+}
+
+body {
+    direction: rtl;
 }
